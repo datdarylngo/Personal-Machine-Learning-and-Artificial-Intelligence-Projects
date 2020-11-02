@@ -1,0 +1,73 @@
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15e9ec7d0>, array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['5', '0', '4', ..., '5', '6', '8'], dtype=object), array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['7', '2', '1', ..., '4', '5', '6'], dtype=object)), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15e9ec7d0>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15e9ec7d0>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15db89f50>, array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['5', '0', '4', ..., '5', '6', '8'], dtype=object), array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['7', '2', '1', ..., '4', '5', '6'], dtype=object)), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15db89f50>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x10eb6ea50>, array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['5', '0', '4', ..., '5', '6', '8'], dtype=object), array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['7', '2', '1', ..., '4', '5', '6'], dtype=object)), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x10eb6ea50>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x10eb6ea50>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15c30f8d0>, array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['5', '0', '4', ..., '5', '6', '8'], dtype=object), array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['7', '2', '1', ..., '4', '5', '6'], dtype=object)), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x15c30f8d0>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x167747890>, array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['5', '0', '4', ..., '5', '6', '8'], dtype=object), array([[0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       ...,
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.],
+       [0., 0., 0., ..., 0., 0., 0.]]), array(['7', '2', '1', ..., '4', '5', '6'], dtype=object)), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x167747890>,), and kwargs: {}
+INFO:root:Ran with args: (<models.classifier.TheAlgorithm object at 0x167747890>,), and kwargs: {}
